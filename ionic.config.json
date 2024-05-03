@@ -1,0 +1,7 @@
+{
+  "name": "insurance",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
